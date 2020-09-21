@@ -29,7 +29,7 @@ TODO: This awesome demo application for cocoapods installation custom pods.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.3'
-
+  s.swift_version = '4.0'
   s.source_files = 'SamplePod/Classes/**/*'
   
   # s.resource_bundles = {
