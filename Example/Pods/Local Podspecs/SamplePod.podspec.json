@@ -1,0 +1,22 @@
+{
+  "name": "SamplePod",
+  "version": "0.1.0",
+  "summary": "A short description of SamplePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sandeep Rachha/SamplePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sandeep Rachha": "iosdeveloper77@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Sandeep Rachha/SamplePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SamplePod/Classes/**/*"
+}
